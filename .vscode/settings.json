@@ -1,0 +1,9 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.excludeLanguages": [
+    
+        "markdown"
+    ],
+    "liveServer.settings.port": 5501
+}
